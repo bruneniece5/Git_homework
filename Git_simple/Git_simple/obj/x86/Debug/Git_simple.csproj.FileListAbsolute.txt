@@ -1,0 +1,4 @@
+D:\ASP\Git_simple\Git_simple\bin\Debug\Git_simple.exe
+D:\ASP\Git_simple\Git_simple\bin\Debug\Git_simple.pdb
+D:\ASP\Git_simple\Git_simple\obj\x86\Debug\Git_simple.exe
+D:\ASP\Git_simple\Git_simple\obj\x86\Debug\Git_simple.pdb
